@@ -18,3 +18,12 @@ Para executar as playbooks destes exercicios;
 cd playbooks
 ansible-playbook webserver.yml
 
+
+#Docker
+
+Os seguintes conceitos foram ensinados:
+
+- docker
+- registry - hub.docker.com
+- Dockerfile
+- docker-compose
